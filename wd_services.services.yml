@@ -1,0 +1,3 @@
+services:
+  wd_services.taxonomy:
+    class: Drupal\wd_services\Taxonomy

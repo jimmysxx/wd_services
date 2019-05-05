@@ -1,0 +1,5 @@
+name: 'WD Services'
+type: module
+description: 'Drupal 8 Custom Services'
+core: 8.x
+package: 'Custom'
